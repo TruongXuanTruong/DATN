@@ -76,7 +76,7 @@
                             <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Mua Hàng Trực Tuyến</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">"Trải nghiệm mua sắm trực tuyến dễ dàng, nhanh chóng và tiện lợi ngay hôm nay."</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
@@ -84,7 +84,7 @@
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Tư Vấn Trả Lời Khách Hàng</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">"Đội ngũ chuyên nghiệp luôn sẵn sàng hỗ trợ và giải đáp mọi thắc mắc của bạn."</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
@@ -92,7 +92,7 @@
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Bảo Mật Thông Tin</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted">"Cam kết bảo mật thông tin khách hàng với tiêu chuẩn an toàn cao nhất."</p>
                     </div>
                 </div>
             </div>
@@ -115,8 +115,8 @@
                                 <img class="img-fluid" src="{{ asset('img/portfolio/1.jpg') }}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Threads</div>
-                                <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                                <div class="portfolio-caption-heading">Túi xách nam da bò chính hãng HB06</div>
+                                <div class="portfolio-caption-subheading text-muted">5.500.000 ₫</div>
                             </div>
                         </div>
                     </div>
@@ -130,8 +130,9 @@
                                 <img class="img-fluid" src="{{ asset('img/portfolio/2.jpg') }}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                                <div class="portfolio-caption-heading">
+                                    Thắt lưng da bò công sở TINO 04 -D02 TRẮNG</div>
+                                <div class="portfolio-caption-subheading text-muted">490.000 ₫</div>
                             </div>
                         </div>
                     </div>
@@ -145,8 +146,8 @@
                                 <img class="img-fluid" src="{{ asset('img/portfolio/3.jpg') }}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Finish</div>
-                                <div class="portfolio-caption-subheading text-muted">Identity</div>
+                                <div class="portfolio-caption-heading">Túi đeo chéo ALEX da cá sấu chính hãng Lavatino [CSM03]</div>
+                                <div class="portfolio-caption-subheading text-muted">9.300.000 ₫</div>
                             </div>
                         </div>
                     </div>
@@ -160,8 +161,8 @@
                                 <img class="img-fluid" src="{{ asset('img/portfolio/4.jpg') }}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Lines</div>
-                                <div class="portfolio-caption-subheading text-muted">Branding</div>
+                                <div class="portfolio-caption-heading">Kính cao cấp phân cực 3 lớp chính hàng LAVATINO KBT05</div>
+                                <div class="portfolio-caption-subheading text-muted">889.000 ₫</div>
                             </div>
                         </div>
                     </div>
@@ -175,8 +176,8 @@
                                 <img class="img-fluid" src="{{ asset('img/portfolio/5.jpg') }}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Southwest</div>
-                                <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                                <div class="portfolio-caption-heading">SET 3 sản phẩm Ví da Zeus & Dây lưng Mk03D15</div>
+                                <div class="portfolio-caption-subheading text-muted">1.870.000 ₫</div>
                             </div>
                         </div>
                     </div>
@@ -190,8 +191,9 @@
                                 <img class="img-fluid" src="{{ asset('img/portfolio/6.jpg') }}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Window</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                <div class="portfolio-caption-heading">
+                                    Vali da cá sấu TSO1 chính hãng Lavatino</div>
+                                <div class="portfolio-caption-subheading text-muted">36.000.000 ₫</div>
                             </div>
                         </div>
                     </div>
@@ -202,58 +204,58 @@
         <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">Về chúng tôi</h2>
+                    <h3 class="section-subheading text-muted">Hành trình xây dựng thương hiệu phụ kiện da cao cấp.</h3>
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{ asset('img/about/1.jpg') }}" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>2009-2011</h4>
-                                <h4 class="subheading">Our Humble Beginnings</h4>
+                                <h4 class="subheading">Những Bước Đi Đầu Tiên</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">"Chúng tôi bắt đầu với một cửa hàng nhỏ, chuyên cung cấp ví da và thắt lưng thủ công, tập trung vào chất lượng và sự tỉ mỉ trong từng sản phẩm."</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{ asset('img/about/2.jpg') }}" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>March 2011</h4>
-                                <h4 class="subheading">An Agency is Born</h4>
+                                <h4 class="subheading">Thương Hiệu Ra Đời</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">"Đánh dấu sự ra mắt thương hiệu, chúng tôi mở rộng danh mục sản phẩm với các mẫu vali và túi xách đáp ứng nhu cầu khách hàng hiện đại.""Đánh dấu sự ra mắt thương hiệu, chúng tôi mở rộng danh mục sản phẩm với các mẫu vali và túi xách đáp ứng nhu cầu khách hàng hiện đại."</p></div>
                         </div>
                     </li>
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{ asset('img/about/3.jpg') }}" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>December 2015</h4>
-                                <h4 class="subheading">Transition to Full Service</h4>
+                                <h4 class="subheading">Chuyển Mình Mạnh Mẽ</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">"Phát triển hệ thống bán lẻ và trực tuyến, đưa các sản phẩm đến gần hơn với khách hàng trên toàn quốc."</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{ asset('img/about/4.jpg') }}" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>July 2020</h4>
-                                <h4 class="subheading">Phase Two Expansion</h4>
+                                <h4 class="subheading">Mở Rộng Quy Mô</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">"Với sự tin tưởng của khách hàng, chúng tôi mở thêm nhiều chi nhánh và không ngừng cải tiến mẫu mã, khẳng định vị thế trong ngành phụ kiện thời trang."</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image">
                             <h4>
-                                Be Part
+                                Hãy là một phần
                                 <br />
-                                Of Our
+                                Câu chuyện
                                 <br />
-                                Story!
+                                Của chúng tôi
                             </h4>
                         </div>
                     </li>
@@ -264,15 +266,15 @@
         <section class="page-section bg-light" id="team">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">Đội ngũ tuyệt vời của chúng tôi</h2>
+                    <h3 class="section-subheading text-muted">Chúng tôi tự hào sở hữu một đội ngũ đầy đam mê và sáng tạo, cam kết mang lại giá trị tốt nhất cho khách hàng.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="{{ asset('img/team/1.jpg') }}" alt="..." />
                             <h4>Parveen Anand</h4>
-                            <p class="text-muted">Lead Designer</p>
+                            <p class="text-muted">Trưởng Nhóm Thiết Kế</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -280,9 +282,9 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="{{ asset('img/team/2.jpg') }}" alt="..." />
                             <h4>Diana Petersen</h4>
-                            <p class="text-muted">Lead Marketer</p>
+                            <p class="text-muted">Trưởng Phòng Marketing</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -290,9 +292,9 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="{{ asset('img/team/3.jpg') }}" alt="..." />
                             <h4>Larry Parker</h4>
-                            <p class="text-muted">Lead Developer</p>
+                            <p class="text-muted">Trưởng Nhóm Phát Triển</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -300,7 +302,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
+                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">"Chúng tôi là tập hợp của những cá nhân tài năng và tận tâm, luôn hướng tới việc tạo ra các sản phẩm và dịch vụ vượt trội, đáp ứng mọi nhu cầu của khách hàng một cách hoàn hảo nhất."</p></div>
                 </div>
             </div>
         </section>
@@ -309,16 +311,16 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/microsoft.svg" alt="..." aria-label="Microsoft Logo" /></a>
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="{{ asset('img/logos/microsoft.svg') }}" alt="..." aria-label="Microsoft Logo" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/google.svg" alt="..." aria-label="Google Logo" /></a>
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="{{ asset('img/logos/google.svg') }}" alt="..." aria-label="Google Logo" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/facebook.svg" alt="..." aria-label="Facebook Logo" /></a>
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="{{ asset('img/logos/facebook.svg') }}" alt="..." aria-label="Facebook Logo" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/ibm.svg" alt="..." aria-label="IBM Logo" /></a>
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="{{ asset('img/logos/ibm.svg') }}" alt="..." aria-label="IBM Logo" /></a>
                     </div>
                 </div>
             </div>
@@ -328,7 +330,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Liên hệ với chúng tôi</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Uy tín đặt lên hàng đầu.</h3>
                 </div>
                 <!-- * * * * * * * * * * * * * * *-->
                 <!-- * * SB Forms Contact Form * *-->
@@ -409,29 +411,29 @@
         <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="{{ asset('img/close-icon.svg') }}" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Tên Sản Phẩm</h2>
+                                    <p class="item-intro text-muted">Khám phá bộ sưu tập đẳng cấp của chúng tôi.</p>
+                                    <img class="img-fluid d-block mx-auto" src="{{ asset('img/portfolio/1.jpg') }}" alt="..." />
+                                    <p>Túi xách: Sự kết hợp hoàn hảo giữa thiết kế tinh tế và chất liệu bền bỉ, mang lại vẻ đẹp sang trọng và tiện dụng.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Threads
+                                            <strong>Sản phẩm:</strong>
+                                            Túi xách nam da bò chính hãng HB06
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Illustration
+                                            <strong>Giá bán:</strong>
+                                            5.500.000 ₫
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Đóng sản phẩm
                                     </button>
                                 </div>
                             </div>
@@ -444,29 +446,29 @@
         <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="{{ asset('img/close-icon.svg') }}" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Tên sản phẩm</h2>
+                                    <p class="item-intro text-muted">Khám phá bộ sưu tập đẳng cấp của chúng tôi.</p>
+                                    <img class="img-fluid d-block mx-auto" src="{{ asset('img/portfolio/2.jpg') }}" alt="..." />
+                                    <p>Thắt lưng: Được chế tác từ da thật cao cấp, mỗi sản phẩm là một tuyên ngôn của phong cách và đẳng cấp.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Explore
+                                            <strong>Sản phẩm:</strong>
+                                            Thắt lưng da bò công sở TINO 04 -D02 TRẮNG
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Graphic Design
+                                            <strong>Giá bán:</strong>
+                                            490.000 ₫
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Đóng sản phẩm
                                     </button>
                                 </div>
                             </div>
@@ -479,29 +481,29 @@
         <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="{{ asset('img/close-icon.svg') }}" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Tên Sản Phẩm</h2>
+                                    <p class="item-intro text-muted">Khám phá bộ sưu tập đẳng cấp của chúng tôi.</p>
+                                    <img class="img-fluid d-block mx-auto" src="{{ asset('img/portfolio/3.jpg') }}" alt="..." />
+                                    <p>Túi đeo chéo: Hoàn hảo cho những người năng động, sản phẩm kết hợp giữa sự tiện ích và thời trang hiện đại.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Finish
+                                            <strong>Sản phẩm:</strong>
+                                            Túi đeo chéo ALEX da cá sấu chính hãng Lavatino [CSM03]
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Identity
+                                            <strong>Giá bán:</strong>
+                                            9.300.000 ₫
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Đóng sản phẩm
                                     </button>
                                 </div>
                             </div>
@@ -514,29 +516,29 @@
         <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="{{ asset('img/close-icon.svg') }}" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Tên Sản Phẩm</h2>
+                                    <p class="item-intro text-muted">Khám phá bộ sưu tập đẳng cấp của chúng tôi.</p>
+                                    <img class="img-fluid d-block mx-auto" src="{{ asset('img/portfolio/4.jpg') }}" alt="..." />
+                                    <p>Kính: Phụ kiện thời thượng, giúp bạn tỏa sáng trong mọi khoảnh khắc với kiểu dáng độc đáo và chất liệu bền bỉ.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Lines
+                                            <strong>Sản phẩm:</strong>
+                                            Kính cao cấp phân cực 3 lớp chính hàng LAVATINO KBT05
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Branding
+                                            <strong>Giá bán:</strong>
+                                            889.000 ₫
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Đóng sản phẩm
                                     </button>
                                 </div>
                             </div>
@@ -549,29 +551,29 @@
         <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="{{ asset('img/close-icon.svg') }}" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Tên Sản Phẩm</h2>
+                                    <p class="item-intro text-muted">Khám phá bộ sưu tập đẳng cấp của chúng tôi.</p>
                                     <img class="img-fluid d-block mx-auto" src="{{ asset('img/portfolio/5.jpg') }}" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Combo sản phẩm: Lựa chọn hoàn hảo với các set phụ kiện được phối hợp hài hòa, mang lại giá trị vượt trội.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Southwest
+                                            <strong>Sản phẩm:</strong>
+                                            SET 3 sản phẩm Ví da Zeus & Dây lưng Mk03D15
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Website Design
+                                            <strong>Giá bán:</strong>
+                                            1.870.000 ₫
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Đóng sản phẩm
                                     </button>
                                 </div>
                             </div>
@@ -584,29 +586,29 @@
         <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="{{ asset('img/close-icon.svg') }}" alt="Close modal" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Tên sản phẩm</h2>
+                                    <p class="item-intro text-muted">Khám phá bộ sưu tập đẳng cấp của chúng tôi.</p>
                                     <img class="img-fluid d-block mx-auto" src="{{ asset('img/portfolio/6.jpg') }}" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Vali da cá sấu: Biểu tượng của sự sang trọng và đẳng cấp, với chất liệu da cá sấu thật cùng thiết kế tinh xảo.</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Window
+                                            <strong>Sản phẩm:</strong>
+                                            Vali da cá sấu TSO1 chính hãng Lavatino
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Photography
+                                            <strong>Giá bán:</strong>
+                                            36.000.000 ₫
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Đóng sản phẩm
                                     </button>
                                 </div>
                             </div>
